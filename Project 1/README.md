@@ -1,6 +1,6 @@
 ## Исследование поведения пользователей сервиса аренды самокатов
-[ipynb](https://github.com/magnanimous24/Portfolio/blob/main/Исследование%20поведения%20пользователей%20сервиса%20аренды%20самокатов.ipynb)
-[html](https://github.com/magnanimous24/Portfolio/blob/main/Исследование%20поведения%20пользователей%20сервиса%20аренды%20самокатов.html)
+[ipynb](https://github.com/magnanimous24/Portfolio/blob/main/Project%201/Rental%20of%20GoFast%20scooters.ipynb)
+[html](https://github.com/magnanimous24/Portfolio/blob/main/Project%201/Rental%20of%20GoFast%20scooters.html)
 ### Цель проекта:
 Проверить гипотезы сервиса аренды самокатов, чтобы помочь вырасти бизнесу.
 ### Описание проекта:
@@ -13,3 +13,4 @@
 - Matplotlib
 - NumPy
 - SciPy
+- Seaborn
